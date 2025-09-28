@@ -1,0 +1,6 @@
+*.pyc
+*.class
+compilador*
+.antlr
+target
+!compilador.g4
