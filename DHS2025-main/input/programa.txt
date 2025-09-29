@@ -1,5 +1,6 @@
 int a=sumar(a,b);
 
+int z;
 if((c||g)&&(f||f)){
     a=2;
 }

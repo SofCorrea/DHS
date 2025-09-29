@@ -42,7 +42,6 @@ FOR :   'for' ;
 WHILE : 'while' ;
 
 ID : (LETRA | '_')(LETRA | DIGITO | '_')* ;
-
 WS : [ \n\r\t] -> skip ;
 OTRO : . ;
 
